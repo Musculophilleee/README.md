@@ -1,74 +1,98 @@
-<div align="center">
-  <img src="./1767215062990.jpg" width="100%" style="border-radius: 10px;" alt="ChainM8 Banner">
-  
-  <br />
-  <h1 style="font-size: 2.5rem;"> Hi there, I'm Hrithik! </h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=400&height=50&lines=Game+Designer;Web3+Developer;Founder+of+ChainM8;Unity+%2B+Simulation+Lead" alt="Typing SVG" />
-  </a>
-</div>
+<!-- Banner -->
+<p align="center">
+  <img src="./1767215062990.jpg" alt="ChainM8 Banner" />
+</p>
 
-<br />
+<h1 align="center">Welcome to Hrithik's GitHub</h1>
+<h3 align="center">Game / Web3 Developer</h3>
+<p align="center"><i>Where ideas meet users in a dark, surreal playground.</i></p>
+<p align="center">India · Indore</p>
 
-<div align="center">
+---
+
+## 🔗 Connect with me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/hrithiksoni-design" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/CodesHrithik" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://parallax.co.in" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
-  </a> 
-   <a href="https://github.com/Musculophilleee?tab=projects" target="_blank">
-    <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a> 
-</div>
-
-<hr/>
-
-<h2 align="center">👨‍🚀 About Me</h2>
-
-<div align="center">
-  <img src="https://media.tenor.com/EpIUy5l2W3AAAAAj/astronaut-space.gif" width="150" alt="Floating Astronaut">
-</div>
-
-<br/>
-
-I'm a **Game Designer** and **Web3 Developer** with a passion for building immersive platforms. I am the **Founder of ChainM8**, a Polymath, and a Generative AI Evangelist. 
-
-Currently, I work as a **Software Engineer at Crunchyroll India** while holding **5x Microsoft Certifications** and **108x Google Cloud Skill Badges**. My current focus is bridging game development with the Web3 ecosystem, specifically exploring **Solidity** and **Blockchain**.
-
-- 🔭 **I’m currently working on:** `LUNAR-MIND` (Autonomous Lunar Rover Simulation)
-- 🌱 **I’m currently learning:** Smart Contracts, AI Agents, and Solidity
-- 👯 **I’m looking to collaborate on:** Hackathons, Web3 projects, and Developer Events
-- 🪙 **Fun fact:** I collect foreign currency notes and coins!
-
-<br />
-
-<h2 align="center">🛠 Technologies & Tools</h2>
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,go,js,react,bootstrap,rust,nodejs,mysql,solidity,cs,unity,git,linux&theme=dark&perline=7" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <br/>
-  <p style="font-family: monospace;">+ AR/VR Development</p>
-</div>
+  <a href="mailto:Hrithik.codes@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/musculophilleee" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-<br />
+---
 
-<h2 align="center">⚡ Stats</h2>
+## 🧬 About me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Musculophilleee&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="Stats (Make Repo Public to See)"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musculophilleee&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="Languages (Make Repo Public to See)"/>
-</div>
+- Polymath and **Generative** AI Evangelist.  
+- Game designer and Web3 developer, founder of **ChainM8 – Where Ideas Meet Users**.  
+- 5x Microsoft Certified and holder of 108+ Google Cloud Skill Badges.  
+- Software Engineer at Crunchyroll India.  
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Musculophilleee&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
+## 🛠️ Technologies
 
+#### Languages
+`C#` `C++` `Java` `Python` `Go` `JavaScript` `Rust` `Solidity`
+
+#### Frameworks / Libraries / Engines
+`Unity` `AR/VR` `React` `Three.js` `Node.js` `Express` `Django` `Bootstrap`
+
+#### Tools / Platforms / Databases
+`Git` `GitHub` `Figma` `Blender` `VS Code` `Linux` `Firebase` `MySQL`
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Musculophilleee&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musculophilleee&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Musculophilleee&theme=dark&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Musculophilleee&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🚧 Current projects
+
+- 🕹️ **ChainM8** – Web3‑powered gaming / product lab where ideas meet users.  
+- 🎮 Game prototypes exploring horror, dark, and surreal aesthetics.  
+- 🌐 **Parallax** – interactive web and XR experiments.  
+
+---
+
+## 🏅 Certificates & achievements
+
+- 5x Microsoft Certified across cloud and developer tracks.  
+- 108+ Google Cloud Skill Badges across infrastructure, ML, and serverless.  
+- Founder of **ChainM8** and active contributor in game dev & Web3 communities.  
+
+---
+
+## 📬 Contact
+
+- Email: **Hrithik.codes@gmail.com**  
+- LinkedIn: [linkedin.com/in/hrithiksoni-design](https://www.linkedin.com/in/hrithiksoni-design)  
+- X: [@CodesHrithik](https://x.com/CodesHrithik)  
+- Instagram: [@musculophilleee](https://www.instagram.com/musculophilleee)
