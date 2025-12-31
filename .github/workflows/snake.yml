@@ -2,21 +2,18 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
-  workflow_dispatch:        # allow manual run
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  build:
+  generate-snake:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Generate snake svg
+      - name: Generate GitHub contribution grid snake
         uses: Platane/snk@v3
         with:
           github_user_name: Musculophilleee
