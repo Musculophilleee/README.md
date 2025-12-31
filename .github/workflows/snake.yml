@@ -1,10 +1,33 @@
-            - name: Generate-README.md-snake
-  # You may pin to the exact commit or the version.
-  # uses: InvalidLenni/README.md@a89878f85b1cca8131c215dbfb4ad7bcdb6b9b9f
-  uses: InvalidLenni/README.md@Template
-  with:
-    # <USERNAME>
-    github_user_name: 
-    # <PATH OF THE GENERATED SVG FILE>
-    svg_out_path: 
-          
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:        # allow manual run
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate snake svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Musculophilleee
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
